@@ -1,0 +1,6 @@
+{
+  "name": "Property Connect",
+  "description": "A P2P Zero-Brokerage Property Rental Marketplace with AI-powered smart matching, competitive price optimization, and a detailed matching engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
